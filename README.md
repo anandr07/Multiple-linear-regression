@@ -2,6 +2,6 @@
 
 Prediction model for profit (Data=50 startups)
 
-Predict price of computer (Computer data)
+Predict price of computer (Data=Computer data)
 
-Prediction model on price (Toyota Corolla)
+Prediction model on price (Data=Toyota Corolla)
