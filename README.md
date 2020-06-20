@@ -1,4 +1,5 @@
 # Multiple-linear-regression
+(Using R)
 
 Prediction model for profit (Data=50 startups)
 
